@@ -19,4 +19,4 @@
 https://github.com/verakonstantinova/helloimvera/commit/e72a9abb6b29c2f5ef4e38d22502115899a009e5
 
 ## Проект 2
-
+https://github.com/verakonstantinova/helloimvera/commit/1098fde3c73a6891c46055938e2362c72e4bef3b
