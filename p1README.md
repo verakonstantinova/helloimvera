@@ -11,12 +11,15 @@
 ## Стек
 ``Excel``,``PostgreSQL/MySQL``,``Python ``
 
-### Как связаться со мной 
-```Telegramm``` @aloyavera4ka
 ### В этом репозитории вы можете найти некоторые из моих проектов, выполненных во время обучения и опытов.
+
+# Проекты 
 
 ## Проект 1 
 https://github.com/verakonstantinova/helloimvera/commit/e72a9abb6b29c2f5ef4e38d22502115899a009e5
 
 ## Проект 2
 https://github.com/verakonstantinova/helloimvera/commit/1098fde3c73a6891c46055938e2362c72e4bef3b
+
+### Как связаться со мной 
+```Telegramm``` @aloyavera4ka
